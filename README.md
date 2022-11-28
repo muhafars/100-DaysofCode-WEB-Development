@@ -17,7 +17,7 @@ In This Day Learn About Basic HTML Extension
 > 4. Then It Show
 
 
-This will show a Picture:
+This Pict will Show glimpse of It:
 
 ```mermaid
 graph LR
