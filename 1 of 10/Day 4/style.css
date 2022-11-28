@@ -1,0 +1,19 @@
+      h1, h2, p {
+        text-align: center;
+        color: maroon;
+        text-shadow: black 1px 1px 2px; /*color, x-position, y-position, blur */
+      }
+      li {
+        font-family: "Fira Code";
+      }
+      a{
+        text-decoration: none;
+      }
+      a:hover{
+        text-decoration: underline;
+      }
+      #p-network{
+        color: orange;
+        font-weight: 50;
+        font-size: 70px;
+      }
