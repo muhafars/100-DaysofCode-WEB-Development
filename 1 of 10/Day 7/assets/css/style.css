@@ -1,0 +1,68 @@
+body {
+  background-color: deepskyblue !important;
+  text-align: center;
+}
+#imgTrophy {
+  text-align: center;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border: 4px solid red;
+  border-radius: 100px;
+  justify-items: center;
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: white;
+  text-shadow: black 1px 1px 2px; /*color, x-position, y-position, blur */
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+p {
+  text-align: center;
+  font-weight: 300;
+  font-family: "Jet Brains";
+}
+
+.learnList {
+  background-color: black !important;
+  color: aliceblue;
+  font-family: "Fira Code";
+  border-radius: 10%;
+  padding-right: 30px;
+}
+li {
+  background-color: skyblue;
+
+  color: black;
+  border: 3px solid black;
+  border-radius: 20px;
+  list-style: none;
+  padding: 10px 5% 10px 6px;
+  margin: 10px 2px 2px 2px;
+}
+#content li {
+  list-style: decimal;
+}
+.goTo {
+  text-decoration: none;
+  font-weight: bold;
+  font-family: "Jet Brains";
+  color: black;
+}
+.goTo:hover {
+  cursor: help;
+  text-decoration: wavy;
+  color: navy;
+  background-color: aliceblue;
+  padding: 1px;
+  border-radius: 10px;
+  border: 1px dashed navy;
+}

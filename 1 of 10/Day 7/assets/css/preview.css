@@ -1,0 +1,29 @@
+body {
+  color: white;
+}
+h2 {
+  font-weight: bold;
+  background-color: aliceblue;
+  border-radius: 50%;
+  color: navy;
+}
+a {
+  background-color: white;
+  padding: 4px;
+  border-radius: 10px;
+  border: 1px dashed black;
+}
+a:hover {
+  background-color: black;
+  border: 3px dashed white;
+  color: skyblue;
+  text-decoration: none;
+  text-shadow: 1px whitesmoke;
+}
+li {
+  list-style: none;
+  background-color: black;
+  border-radius: 100px;
+  margin: 10px;
+  color: white;
+}
